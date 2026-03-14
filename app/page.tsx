@@ -284,7 +284,7 @@ export default function Home() {
               <div className="contact-items">
                 <div className="contact-item"><div className="ci-icon">📍</div><div><h4>Adresse</h4><p>15 rue du Général de Gaulle<br/>68130 Hirsingue</p></div></div>
                 <div className="contact-item"><div className="ci-icon">📞</div><div><h4>Téléphone</h4><p><a href="tel:0670699650">06 70 69 96 50</a></p></div></div>
-                <div className="contact-item"><div className="ci-icon">📧</div><div><h4>Email</h4><p><a href="mailto:contact@arxfidelis.fr">contact@arxfidelis.fr</a></p></div></div>
+                <div className="contact-item"><div className="ci-icon">📧</div><div><h4>Email</h4><p><a href="mailto:direction@arxfidelis.fr">contact@arxfidelis.fr</a></p></div></div>
                 <div className="contact-item"><div className="ci-icon">🔏</div><div><h4>ORIAS N° 14005505</h4><p><a href="https://www.orias.fr" target="_blank">Vérifier notre immatriculation ↗</a></p></div></div>
               </div>
             </div>
